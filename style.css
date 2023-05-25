@@ -1,0 +1,39 @@
+img {
+    display:block;
+    margin: 1.5px;
+    justify-content: left;
+}
+.you {
+display:inline-flex;
+justify-content: left;
+margin: 0;
+}
+
+.rec1 {
+    display: inline;
+    justify-content: center;
+    margin: 0 0 0 400px;
+ }
+ .rec2 {
+    display: inline;
+    justify-content: center;
+    margin: 0 0 0 0px;
+ }
+ 
+ iframe {
+    display: inline;
+    justify-content: left;
+    align-items: top;
+    margin: 0 0 500px 20vw;
+
+   
+}
+ .sidebar {
+  display: inline;
+  justify-content: right; 
+  margin: 0px 0px 0px 10vw;
+ 
+
+ }
+
+
